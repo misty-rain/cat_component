@@ -1,0 +1,1 @@
+include ':app', ':ft_eventbus', ':ft_fastjson', ':ft_http', ':ft_logger'
